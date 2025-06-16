@@ -150,7 +150,7 @@ Test Results
 ```
 
 ### 🖼️ Contoh Prediksi
-
+<div align="center">
 <table>
 <tr>
 <td align="center">
@@ -159,7 +159,7 @@ Test Results
 </td>
 </tr>
 </table>
-
+</div>
 ---
 
 ## 🚀 Quick Start
